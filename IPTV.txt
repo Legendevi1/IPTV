@@ -1,3 +1,14 @@
+每日更新,#genre#
+松视1,http://live.urren.net:80/live/78fd444d03e3c96e086a5c272b6f427e.flv
+松视3,http://live.urren.net:80/live/aae1f6c6ce1349f275722f99b9d76fb9.flv
+E频道,http://live.urren.net:80/live/4d1d8fefdf8bf159e95d568e1e5d121a.flv
+K频道,http://live.urren.net:80/live/7629dd7bc3b520adad508ffa3459d7d3.flv
+彩虹电影,http://live.urren.net:80/live/3cd0d9036159abb176a6f206dc89cee5.flv
+潘朵拉,http://live.urren.net:80/live/2c2186e2ebbf7192afa04b5e34d9ace7.flv
+惊艳,http://live.urren.net:80/live/46b134edefa04be0e25eae7098f57887.flv
+香蕉,http://live.urren.net:80/live/85412568bda69955e81f50b48e13745b.flv
+happy,http://live.urren.net:80/live/8b070dfaa4d2b8cb59ee48cf42291737.flv
+极限,http://live.urren.net:80/live/7b27de1d7f1205a097376d818893d06f.flv
 港澳新,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
