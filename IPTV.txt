@@ -1,14 +1,14 @@
 每日更新,#genre#
-极限,http://live.urren.net:80/live/60e3c3e7b81accd3015d17ed4e14ee75.flv
-happy,http://live.urren.net:80/live/168ea077f852ea59496504ca32619ee2.flv
-香蕉,http://live.urren.net:80/live/4cfb5eda408c20026ca6fb9246bc73cc.flv
-惊艳,http://live.urren.net:80/live/8229d3ca326a5035d3ed3afa47ae1b55.flv
-潘朵拉,http://live.urren.net:80/live/1f6f6bb3ce051fc758abc2ad64ffa2e8.flv
-彩虹电影,http://live.urren.net:80/live/988106c1a0528d23a46728b78a4e87e1.flv
-K频道,http://live.urren.net:80/live/3e76fb235b043b6b29805442f273b997.flv
-E频道,http://live.urren.net:80/live/e1f980c32af3a34581451d78a88fb497.flv
-松视3,http://live.urren.net:80/live/06b6cb9106a9123413b7c0907496ac95.flv
-松视1,http://live.urren.net:80/live/f5d35b1635fc3b3edff3fc179b2d5993.flv
+极限,http://live.urren.net:80/live/87b0b2b1075ad0315a092d5dc171fba0.flv
+happy,http://live.urren.net:80/live/9974bfd068fbd118d793b61658023194.flv
+香蕉,http://live.urren.net:80/live/b11869456bd5333dd5562f199be51c94.flv
+惊艳,http://live.urren.net:80/live/230d91a7ec150e478dc7ce76446b03b0.flv
+潘朵拉,http://live.urren.net:80/live/f3a075dd1a2347a1495d03906547e9c9.flv
+彩虹电影,http://live.urren.net:80/live/9af36e8fed1d36b53a63850d937269f8.flv
+K频道,http://live.urren.net:80/live/0102d91e96e10b4602331499ab7707c0.flv
+E频道,http://live.urren.net:80/live/42e9d40ca83f1c4264c5e15f3a8b8b9d.flv
+松视3,http://live.urren.net:80/live/31e17e997b891e5e6f01fdd44376c33e.flv
+松视1,http://live.urren.net:80/live/2641434c48e9f96aa125695dd60dad6f.flv
 港澳新,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
@@ -255,4 +255,5 @@ JStar三级片,http://iptv.4666888.xyz/iptv.php?id=20159
 国外AV6,http://iptv.4666888.xyz/iptv.php?id=20165
 国外AV7,http://iptv.4666888.xyz/iptv.php?id=20166
 国外AV8,http://iptv.4666888.xyz/iptv.php?id=20167
+
 
