@@ -1,40 +1,4 @@
 每日更新,#genre#
-精選1,https://10j99.cdnedge.live/file/avple-images/hls/6254064a3d5bac30b2603dbe/playlist.m3u8
-精選2,https://10j99.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
-精選3,https://10j99.cdnedge.live/file/avple-images/hls/61771dadad20e84f6e46a0ab/playlist.m3u8
-精選4,https://10j99.cdnedge.live/file/avple-images/hls/6190b9d93e002b78fa02b871/playlist.m3u8
-精選5,https://e2fa61.cdnedge.live/file/avple-asserts/hls/634cfc755c062344b76024c5/playlist.m3u8
-ab/playlist.m3u8
-精選6,https://je40u.cdnedge.live/file/avple-images/hls/61771a65ad20e84f6e46a0a5/playlist.m3u8
-精選7,https://zo3921.cdnedge.live/file/avple-asserts/hls/63512a5a01914f11ef459ac3/playlist.m3u8
-精選8,https://47b61.cdnedge.live/file/avple-images/hls/609ce87dee36da5bb9b5e4bd/playlist.m3u8
-精選9,https://q2cyl7.cdnedge.live/file/avple-images/hls/62837472ef2c1c6dbc484240/playlist.m3u8
-精選10,https://u89ey1.cdnedge.live/file/avple-asserts/hls/63776305662a2810e815a96a/playlist.m3u8
-精選11,https://zo3921.cdnedge.live/file/avple-asserts/hls/6377619e662a2810e815a967/playlist.m3u8
-精選12,https://u89ey1.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53ef/playlist.m3u8
-精選13,https://zo3921.cdnedge.live/file/avple-asserts/hls/636260a157da9326a9b1cdca/playlist.m3u8
-精選14,https://10j99.cdnedge.live/file/avple-images/hls/630bf906fa4dc50519c9fa75/playlist.m3u8
-精選15,https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
-精選16,https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
-精選17,https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
-精選18,https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
-精選19,https://t27.cdn2020.com/video/m3u8/2023/03/31/021de17c/index.m3u8
-
-午夜情挑台,#genre#
-
-LOOK,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
-HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
-彩虹e,p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
-彩虹K,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
-彩虹电影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
-彩虹频道,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
-极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
-松视1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
-松视2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
-松视3,p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
-潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
-香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
-惊艳,p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe
 
 港澳新,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
@@ -282,6 +246,7 @@ JStar三级片,http://iptv.4666888.xyz/iptv.php?id=20159
 国外AV6,http://iptv.4666888.xyz/iptv.php?id=20165
 国外AV7,http://iptv.4666888.xyz/iptv.php?id=20166
 国外AV8,http://iptv.4666888.xyz/iptv.php?id=20167
+
 
 
 
