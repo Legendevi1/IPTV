@@ -1,7 +1,4 @@
-每日更新,#genre#
-今艳台,http://devpulllive.xylink.com/live/b97d33e9e3c3304ef9d43b06bec8df40.flv
-奥视1,http://52.76.174.192/pull-f5-hs.flive.pstatp.com/live/39defa019a4f4c9dabe6311cda8f1b4c.flv
-港澳新,#genre#
+港澳,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
@@ -221,7 +218,7 @@ KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290
 靖天电影,http://iptv.4666888.xyz/iptv.php?id=20300
 靖天育乐,http://iptv.4666888.xyz/iptv.php?id=20301
 靖天资讯,http://iptv.4666888.xyz/iptv.php?id=20302
-成人,#genre#
+营养快线,#genre#
 松视1,http://iptv.4666888.xyz/iptv.php?id=20143
 松视2,http://iptv.4666888.xyz/iptv.php?id=20144
 松视3,http://iptv.4666888.xyz/iptv.php?id=20145
@@ -247,12 +244,3 @@ JStar三级片,http://iptv.4666888.xyz/iptv.php?id=20159
 国外AV6,http://iptv.4666888.xyz/iptv.php?id=20165
 国外AV7,http://iptv.4666888.xyz/iptv.php?id=20166
 国外AV8,http://iptv.4666888.xyz/iptv.php?id=20167
-
-
-
-
-
-
-
-
-
