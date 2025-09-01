@@ -1,3 +1,5 @@
+4K,#genre#
+CCTV4K,http://moyu.ip-ddns.com/php/cctv.php?id=cctv4k&q=cq
 港澳,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
@@ -244,3 +246,4 @@ JStar三级片,http://iptv.4666888.xyz/iptv.php?id=20159
 国外AV6,http://iptv.4666888.xyz/iptv.php?id=20165
 国外AV7,http://iptv.4666888.xyz/iptv.php?id=20166
 国外AV8,http://iptv.4666888.xyz/iptv.php?id=20167
+
